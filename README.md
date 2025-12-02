@@ -34,4 +34,3 @@ Some of the haar cascade stuff might need extra files - those are in the Haarcas
 
 This was mostly done a while back when I was learning, so some code might be messy or not the "best" way to do things. But it works for understanding the basics.
 
-If something doesn't run, check the file paths in the code - you might need to change the image/video file paths to match where your files are.
