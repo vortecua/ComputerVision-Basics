@@ -34,3 +34,4 @@ Some of the haar cascade stuff might need extra files - those are in the Haarcas
 
 This was mostly done a while back when I was learning, so some code might be messy or not the "best" way to do things. But it works for understanding the basics.
 
+Sorry if some code is messy - this was from when I was just starting with OpenCV!
